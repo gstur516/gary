@@ -1,0 +1,10 @@
+  
+{
+    "id": "CheatMod-Gary",
+    "name": "CheatMod v0.1.0",
+    "version": "0.1.0",
+    "author": "SGary - gss51601@gmail.com",
+    "url": "https://github.com/gstur516/gary",
+    "description": "All it's got is an option for 11/10 rating",
+    "main": "./CheatMod.js"
+}
